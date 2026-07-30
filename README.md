@@ -124,11 +124,6 @@ jupyter notebook HR_Employee_Attrition.ipynb
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) or open a pull request.
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it for your own learning or projects.
 
 ---
 
