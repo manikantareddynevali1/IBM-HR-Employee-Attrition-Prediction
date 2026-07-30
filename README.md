@@ -69,13 +69,13 @@ Models were evaluated using:
 | Model | Accuracy |
 |---|---|
 | Logistic Regression | 89.11% |
-| Decision Tree | 76.53 |
-| **Random Forest** | 86.73 |
+| Decision Tree | 76.53% |
+| **Random Forest** | 86.73% |
  |
 
-> The **Random Forest** model achieved the highest prediction accuracy among all evaluated models and generalized best on the test data.
+> The **Logistic Regression** model achieved the highest prediction accuracy among all evaluated models and generalized best on the test data.
 
-*(Update the numbers above with your actual results before publishing.)*
+
 
 ---
 
