@@ -3,7 +3,6 @@
 Predicting whether an employee is likely to leave a company using classic Machine Learning models, built on the IBM HR Analytics dataset.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
