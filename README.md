@@ -135,6 +135,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
 
 
