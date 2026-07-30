@@ -94,7 +94,7 @@ Models were evaluated using:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/IBM-HR-Attrition-Prediction.git
+git clone https://github.com/manikantareddynevali1/IBM-HR-Attrition-Prediction.git
 cd IBM-HR-Attrition-Prediction
 ```
 
