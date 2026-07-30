@@ -131,8 +131,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👤 Author
 
 **Mani Reddy**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
+- GitHub: [@your-username]([https://github.com/your-username](https://github.com/manikantareddynevali1))
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mani-reddy-05506541a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
