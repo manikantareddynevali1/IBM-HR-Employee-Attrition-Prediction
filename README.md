@@ -68,7 +68,7 @@ Models were evaluated using:
 
 | Model | Accuracy |
 |---|---|
-| Logistic Regression | 89.11% |
+| Logistic Regression | 89.11% ✅|
 | Decision Tree | 76.53% |
 | **Random Forest** | 86.73% |
  |
